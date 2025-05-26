@@ -141,7 +141,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person
   name                   : *name
   links: # An array of links to social media profiles
     - name: "Email (personal)"
@@ -153,9 +153,6 @@ social:
     - name: "GitHub"
       icon: "fab fa-github"
       url:  "https://github.com/dedwar65"
-    # - name: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url:  "https://scholar.google.com/citations?user=…"
 
 
 # Analytics
