@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Decory Edwards / Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Decory Edwards"
 description              : &description "This is a site which holds all of my relevant information regarding my academic career."
