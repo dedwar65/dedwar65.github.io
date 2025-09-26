@@ -6,6 +6,15 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# enforce default author id for pages (so the sidebar uses _data/authors.yml:dedwar65)
+defaults:
+  - scope:
+      path: ""        # all files
+      type: "pages"
+    values:
+      author: dedwar65
+
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
