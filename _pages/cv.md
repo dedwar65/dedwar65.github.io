@@ -22,5 +22,3 @@ Here is the latest version of my CV:
 - [Teaching statement (PDF)](/files/TeachingStatement.pdf){:target="_blank"}
 
 ---
-
-If you prefer to view a document inline, click the **View** link below to open it in a new tab; or use the embedded preview further down this page.
