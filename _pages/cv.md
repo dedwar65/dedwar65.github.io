@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Curriculum Vitae
-Download my CV (PDF):
+Here is the latest version of my CV:
 - [Curriculum Vitae (PDF)](/files/CV.pdf){:target="_blank"}
 
 ---
