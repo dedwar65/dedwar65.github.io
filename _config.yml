@@ -31,7 +31,7 @@ repository               : "dedwar65/dedwar65.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/websitepic.jpg"
+  avatar           : "https://dedwar65.github.io/files/websitepic.jpg"
   name             : "Decory Edwards"
   pronouns         : # example: "she/her"  
   bio              : "Houston native, traveling where Economics takes me next."
