@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV & Statements"
+title: "Personal Information"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,11 +10,6 @@ redirect_from:
 ## Curriculum Vitae
 Here is the latest version of my CV:
 - [Curriculum Vitae (PDF)](/files/CV.pdf){:target="_blank"}
-
----
-
-## Research Statement
-- [Research statement (PDF)](/files/ResearchStatement.pdf){:target="_blank"}
 
 ---
 
