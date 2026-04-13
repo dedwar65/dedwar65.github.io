@@ -10,6 +10,7 @@ redirect_from:
 ## Curriculum Vitae
 Here is the latest version of my CV:
 - [Curriculum Vitae (PDF)](/files/CV.pdf){:target="_blank"}
+- [Resume (PDF)](/files/Decory_Edwards_Resume.pdf){:target="_blank"}
 
 ---
 
