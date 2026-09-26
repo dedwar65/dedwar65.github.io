@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. candidate in Economics at Johns Hopkins University, currently on the 2025 academic job market.
+Hello, I am Decory Edwards. I earned a PhD in Economics from Johns Hopkins University in July 2026. I am actively looking for work and am excited to continue working in economics if given the opportunity.
 
-I am a macroeconomist studying the interaction between inequality and macroeconomics. My job market paper explores the potential for rate of return heterogeneity to allow standard macroeconomic models to match wealth moments. 
+I am a macroeconomist studying the interaction between inequality and macroeconomics. My dissertation explores the potential for rate of return heterogeneity to allow standard macroeconomic models to match wealth moments. As a Houston native, my research interests have more recently shifted toward health and energy policy, given the rich markets for both in Texas.
 
-I have experience as both an academic and private tutor, as well as a teaching assistant for many years. 
+I have experience as both an academic and private tutor, as well as a teaching assistant for many years.
 
 At this site, you will find papers that I am currently working on, as well as my CV and teaching materials. 
 

@@ -18,3 +18,8 @@ Here is the latest version of my CV:
 - [Teaching statement (PDF)](/files/TeachingStatement.pdf){:target="_blank"}
 
 ---
+
+## Research Statement
+- [Research statement (PDF)](/files/ResearchStatement.pdf){:target="_blank"}
+
+---
