@@ -22,7 +22,7 @@ title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Decory Edwards"
 description              : &description "This is a site which holds all of my relevant information regarding my academic career."
-url                      : https://dedwar65.github.io 
+url                      : https://research.decoryedwards.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dedwar65/dedwar65.github.io"
 
@@ -31,7 +31,7 @@ repository               : "dedwar65/dedwar65.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://dedwar65.github.io/files/websitepic2.jpg"
+  avatar           : "https://research.decoryedwards.com/files/websitepic2.jpg"
   name             : "Decory Edwards"
   pronouns         : # example: "she/her"  
   bio              : "Houston native, traveling where Economics takes me next."
